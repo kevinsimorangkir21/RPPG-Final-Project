@@ -27,7 +27,7 @@
 A final project that creates a program that accepts video input from a webcam and processes the video in real time and displays respiration signals and RPPG signals using matplotlib and/or cv2.
 
 ## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Member Of Team**
-| [<img src="Images/Mentahan/Ardoni.png" width="100px;"/><br /><sub><b>Ardoni Yeriko</b></sub>](https://github.com/Ardoni121140141)<br /> 121140141 <br /> | [<img src="Images/Mentahan/Kevin.png" width="100px;"/><br /><sub><b>Kevin Simorangkir</b></sub>](https://github.com/kevinsimorangkir21)<br />121140150 <br /> | [<img src="Images/Mentahan/Rizki.png" width="100px;"/><br /><sub><b>Rizki Alfaina</b></sub>](https://github.com/RizkiAlfaina) <br/> 12140228 <br /> |
+| [<img src="Images/Member/Atha.png" width="100px;"/><br /><sub><b>M. Atha Akbar</b></sub>](https://github.com/AthaAkbar123)<br /> 121140123 <br /> | [<img src="Images/Member/Kevin.png" width="100px;"/><br /><sub><b>Kevin Simorangkir</b></sub>](https://github.com/kevinsimorangkir21)<br />121140150 <br /> | [<img src="Images/Member/Alfath.png" width="100px;"/><br /><sub><b>Alfath</b></sub>](https://github.com/Alfath12311) <br/> 121140157 <br /> |
 |--|--|--|
 
 ## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **ID & Position Member Of Team**
@@ -35,9 +35,9 @@ A final project that creates a program that accepts video input from a webcam an
 
 | Name | ID Student | Class | Major
 | :---: | :---: | :---: | :---: |
-| Ardoni Yeriko Rifana Gultom   | 121140141 | R | Informatics Engineering
-| Kevin Simorangkir             | 121140150 | R | Informatics Engineering
-| M. Rizki Alfaina              | 121140228 | R | Informatics Engineering
+| **M. Atha Akbar** | 121140123 | R | Informatics Engineering |
+| **Kevin Simorangkir** | 121140150 | R | Informatics Engineering |
+| **Alfath** | 121140157 | R | Informatics Engineering |
 
 </div>
 
