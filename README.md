@@ -47,7 +47,7 @@ A final project that creates a program that accepts video input from a webcam an
 | Technology | Name | Description |
 | :---: | :---: | :---: |
 | <img src="Images/Mentahan/Python.png" style="width:50px;"/> | **Python** | Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. |
-| <img src="Images/Mentahan/Matplotlib.png.png" style="width:50px;"/> | **Matplotlib** | Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK. |
+| <img src="Images/Mentahan/Matplotlib.png" style="width:50px;"/> | **Matplotlib** | Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK. |
 | <img src="Images/Mentahan/OpenCV.png" style="width:50px;"/> | **OpenCV** | OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. |
 
 </div>
