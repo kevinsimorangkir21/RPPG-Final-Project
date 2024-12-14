@@ -2,7 +2,7 @@
 <img src="Images/Mentahan/BIReadme.png" width="100%" />
 <h1> RRPG Final Project </h1>
 
-[![Github Commit](https://img.shields.io/github/commit-activity/m/Ardoni121140141/Tubes-Multimedia---RRPG-Final-Project)](#)
+[![Github Commit](https://img.shields.io/github/commit-activity/m/kevinsimorangkir21/RRPG-Final-Project)](#)
 [![Github Contributors](https://img.shields.io/badge/all\_contributors-3-red.svg)](#)
 </div>
 
