@@ -41,14 +41,14 @@ A final project that creates a program that accepts video input from a webcam an
 
 </div>
 
-<!-- ## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Technology Application**
+## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Technology Application**
 <div align="left">
 
 | Technology | Name | Description |
 | :---: | :---: | :---: |
-| <img src="Images/Logo Apps/Python.png" style="width:50px;"/> | **Python** | Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. |
-| <img src="Images/Logo Apps/Pygame.png" style="width:50px;"/> | **Pygame** | Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language. |
-| <img src="Images/Logo Apps/Mediapipe.png" style="width:50px;"/> | **MediaPipe** | MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines. MediaPipe is used for object detection, face detection, hand tracking, and pose detection. |
+| <img src="Images/Mentahan/Python.png" style="width:50px;"/> | **Python** | Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. |
+| <img src="Images/Mentahan/Matplotlib.png.png" style="width:50px;"/> | **Matplotlib** | Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK. |
+| <img src="Images/Mentahan/OpenCV.png" style="width:50px;"/> | **OpenCV** | OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. |
 
 </div>
 
@@ -78,7 +78,7 @@ python --version
 [Software GOOGLE COLLAB](https://colab.research.google.com/)
 ```
 
-<li> To install Pygame, please use the following command: </li>
+<!-- <li> To install Pygame, please use the following command: </li>
 
 ```bash
 pip install pygame
