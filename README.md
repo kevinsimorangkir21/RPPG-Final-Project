@@ -1,8 +1,8 @@
 <div align="center">
 <img src="Images/Mentahan/BIReadme.png" width="100%" />
-<h1> RRPG Final Project </h1>
+<h1> RPPG Final Project </h1>
 
-[![Github Commit](https://img.shields.io/github/commit-activity/m/kevinsimorangkir21/RRPG-Final-Project)](#)
+[![Github Commit](https://img.shields.io/github/commit-activity/m/kevinsimorangkir21/RPPG-Final-Project)](#)
 [![Github Contributors](https://img.shields.io/badge/all\_contributors-3-red.svg)](#)
 </div>
 
