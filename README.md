@@ -1,6 +1,6 @@
 <div align="center">
 <img src="Images/Mentahan/BIReadme.png" width="100%" />
-<h1> RRPQ Final Project </h1>
+<h1> RRPG Final Project </h1>
 
 [![Github Commit](https://img.shields.io/github/commit-activity/m/Ardoni121140141/Tubes-Multimedia---RRPG-Final-Project)](#)
 [![Github Contributors](https://img.shields.io/badge/all\_contributors-3-red.svg)](#)
@@ -41,7 +41,7 @@ A final project that creates a program that accepts video input from a webcam an
 
 </div>
 
-## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Technology Application**
+<!-- ## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Technology Application**
 <div align="left">
 
 | Technology | Name | Description |
@@ -112,4 +112,4 @@ python main.py
 ## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Weekly Logbook**
 | Week | Task | Person | Status |
 | :---: | :---: | :---: | :---: |
-| Week 1 | - Installing OpenCV, Pygame and Mediapipe modules <br> - Save the requirements.txt file for the purpose of installing dependencies. <br> - Creating basic code to detect hand gestures using MediaPipe | Ardoni Yeriko & Kevin Simorangkir | Done |
+| Week 1 | - Installing OpenCV, Pygame and Mediapipe modules <br> - Save the requirements.txt file for the purpose of installing dependencies. <br> - Creating basic code to detect hand gestures using MediaPipe | Ardoni Yeriko & Kevin Simorangkir | Done | -->
