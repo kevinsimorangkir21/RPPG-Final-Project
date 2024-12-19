@@ -37,7 +37,7 @@ A final project that creates a program that accepts video input from a webcam an
 | :---: | :---: | :---: | :---: |
 | **M. Atha Akbar** | 121140123 | R | Informatics Engineering |
 | **Kevin Simorangkir** | 121140150 | R | Informatics Engineering |
-| **Alfath** | 121140157 | R | Informatics Engineering |
+| **Alfath Elnandra** | 121140157 | R | Informatics Engineering |
 
 </div>
 
