@@ -39,3 +39,21 @@ def draw_roi(frame, rppg_roi, resp_roi):
     cv2.rectangle(frame, (x2, y2), (x2 + w2, y2 + h2), (255, 0, 0), 2)
 
     return frame
+
+
+def detect_face(frame, face_cascade):
+    """
+    Deteksi wajah pada frame menggunakan Haar Cascade.
+
+    Parameters:
+        frame (array): Frame input (grayscale).
+        face_cascade (cv2.CascadeClassifier): Objek Haar Cascade untuk deteksi wajah.
+
+    Returns:
+        tuple: Koordinat wajah (x, y, w, h) atau None jika tidak ada wajah yang terdeteksi.
+    """
+    faces = face_cascade.detectMultiScale(
+        frame, scaleFactor=1.1, minNeighbors=5, minSize=(50, 50))
+    if len(faces) > 0:
+        return faces[0]  # Ambil wajah pertama yang terdeteksi
+    return None
