@@ -7,7 +7,7 @@
 </div>
 
 ## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Table Of Contents**
-[Introduction]()
+[Description]()
 
 [Member Of Team]()
 
@@ -23,59 +23,74 @@
 
 [Presentation Video]()
 
-## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Introduction**
-A final project that creates a program that accepts video input from a webcam and processes the video in real time and displays respiration signals and RPPG signals using matplotlib and/or cv2.
+## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Description**
+A final project in the assignment in the Digital Signal Processing (DSP) Course that asks to create a program to receive video input from a camera/webcam then process the video in real time and display the respiration signal and RPPG signal using several libraries needed in this assignment such as matplotlib, cv2, and others.
 
 ## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Member Of Team**
-| [<img src="Images/Member/Atha.png" width="100px;"/><br /><sub><b>M. Atha Akbar</b></sub>](https://github.com/AthaAkbar123)<br /> 121140123 <br /> | [<img src="Images/Member/Kevin.png" width="100px;"/><br /><sub><b>Kevin Simorangkir</b></sub>](https://github.com/kevinsimorangkir21)<br />121140150 <br /> | [<img src="Images/Member/Alfath.png" width="100px;"/><br /><sub><b>Alfath</b></sub>](https://github.com/Alfath12311) <br/> 121140157 <br /> |
+| [<img src="Images/Member/Atha.png" width="100px;"/><br /><sub><b>M. Atha Akbar</b></sub>](https://github.com/AthaAkbar123)<br /> 121140123 <br /> | [<img src="Images/Member/Kevin.png" width="100px;"/><br /><sub><b>Kevin Simorangkir</b></sub>](https://github.com/kevinsimorangkir21)<br />121140150 <br /> | [<img src="Images/Member/Alfath.png" width="100px;"/><br /><sub><b>Alfath Elnandra</b></sub>](https://github.com/Alfath12311) <br/> 121140157 <br /> |
 |--|--|--|
 
 ## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **ID & Position Member Of Team**
 <div align="left">
 
-| Name | ID Student | Class | Major
-| :---: | :---: | :---: | :---: |
-| **M. Atha Akbar** | 121140123 | R | Informatics Engineering |
-| **Kevin Simorangkir** | 121140150 | R | Informatics Engineering |
-| **Alfath Elnandra** | 121140157 | R | Informatics Engineering |
+The following is the AKA Group consisting of 3 members following the provisions for completing the assigned tasks:
+
+| Name | ID Student | Class | Major | Force |
+| :---: | :---: | :---: | :---: | :---: |
+| **Muhammad Atha Akbar** | 121140123 | R | Informatics Engineering | 2021 |
+| **Kevin Simorangkir** | 121140150 | R | Informatics Engineering | 2021 |
+| **Alfath Elnandra** | 121140157 | R | Informatics Engineering | 2021 |
 
 </div>
 
 ## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Technology Application**
 <div align="left">
 
+Some of the technologies used in this assignment and based on the assignment provisions given by the supervisor are:
+
 | Technology | Name | Description |
 | :---: | :---: | :---: |
-| <img src="Images/Mentahan/Python.png" style="width:50px;"/> | **Python** | Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. |
+| <img src="Images/Mentahan/Python.png" style="width:50px;"/> | **Python** | Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects. |
 | <img src="Images/Mentahan/Matplotlib.png" style="width:50px;"/> | **Matplotlib** | Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK. |
-| <img src="Images/Mentahan/OpenCV.png" style="width:50px;"/> | **OpenCV** | OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. |
+| <img src="Images/Mentahan/OpenCV.png" style="width:50px;"/> | **OpenCV** | OpenCV / Open Source Computer Vision Library is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. |
 
 </div>
 
-## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Installation Steps**
-### <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Preparation of Needs**
-Some of the preparations needed to carry out this research project are as follows:
+## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Usage Stage**
 
-<li> Install python software/code first </li>
+The Usage Stage in this project is divided into 2 (two) stages, namely the Installation Stage and the Usage Stage. The following is an explanation of the two stages, namely:
+
+### <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Installation Stage**
+Several stages of installation preparation in carrying out this research project are as follows:
+
+<li> First install a software/application/tool ​​to run a Python program code. If you have not installed it, please visit the following link: </li>
 
 ```bash
 https://www.python.org/downloads/
 ```
 
-<li> After installing, first check whether Python has been installed properly using the following command: </li>
+<li> The next step, after installing, please check the installed Python version by typing the following command in Command Prompt/Power Shell/GitBash: </li>
 
 ```bash
 python --version
 ```
 
-<li> Once the python version appears, please open a text editor that supports it such as Visual Studio Code and the web-based Google Collab. Here are the links to use both (please download and install) :</li>
+<li> The next step is running the Python program code. To run the program code, please use a text editor such as Visual Studio Code (VS Code) / Google Collab / Online Python Compiler / Replit. Here are links to use some text editor suggestions:</li>
 
 ```bash
-[Software VISUAL STUDIO CODE](https://code.visualstudio.com/)
+https://code.visualstudio.com/
 ```
 
 ```bash
-[Software GOOGLE COLLAB](https://colab.research.google.com/)
+https://colab.research.google.com/
+```
+
+```bash
+https://www.onlinegdb.com/online_python_compiler
+```
+
+```bash
+https://replit.com/
 ```
 
 <!-- <li> To install Pygame, please use the following command: </li>
