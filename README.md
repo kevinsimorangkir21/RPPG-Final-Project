@@ -23,14 +23,14 @@
 
 [Presentation Video]()
 
-## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Introduction**
+## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Introduction**
 A final project that creates a program that accepts video input from a webcam and processes the video in real time and displays respiration signals and RPPG signals using matplotlib and/or cv2.
 
-## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Member Of Team**
+## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Member Of Team**
 | [<img src="Images/Member/Atha.png" width="100px;"/><br /><sub><b>M. Atha Akbar</b></sub>](https://github.com/AthaAkbar123)<br /> 121140123 <br /> | [<img src="Images/Member/Kevin.png" width="100px;"/><br /><sub><b>Kevin Simorangkir</b></sub>](https://github.com/kevinsimorangkir21)<br />121140150 <br /> | [<img src="Images/Member/Alfath.png" width="100px;"/><br /><sub><b>Alfath</b></sub>](https://github.com/Alfath12311) <br/> 121140157 <br /> |
 |--|--|--|
 
-## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **ID & Position Member Of Team**
+## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **ID & Position Member Of Team**
 <div align="left">
 
 | Name | ID Student | Class | Major
@@ -41,7 +41,7 @@ A final project that creates a program that accepts video input from a webcam an
 
 </div>
 
-## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Technology Application**
+## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Technology Application**
 <div align="left">
 
 | Technology | Name | Description |
@@ -52,8 +52,8 @@ A final project that creates a program that accepts video input from a webcam an
 
 </div>
 
-## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Installation Steps**
-### <img src="Images/Mentahan/Panah2.png" width="30px;"/> **Preparation of Needs**
+## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Installation Steps**
+### <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Preparation of Needs**
 Some of the preparations needed to carry out this research project are as follows:
 
 <li> Install python software/code first </li>
