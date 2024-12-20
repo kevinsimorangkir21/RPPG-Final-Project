@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 from sigpro import bandpass_filter, extract_rppg_and_respiration
-from vipro import get_video_capture, draw_roi
+from vipro import get_video_capture, draw_roi, detect_face
 
 # Konfigurasi
 fs = 30  # Sampling rate
@@ -15,10 +15,12 @@ resp_data = []
 plt.ion()
 fig, (ax1, ax2) = plt.subplots(2, 1)
 
-# Inisialisasi Video
+# Inisialisasi Video dan Deteksi Wajah
 cap = get_video_capture()
+face_cascade = cv2.CascadeClassifier(
+    cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
-# ROI (Region of Interest)
+# ROI Awal
 rppg_roi = (100, 100, 200, 200)  # x, y, w, h
 resp_roi = (300, 300, 200, 200)
 
@@ -30,6 +32,14 @@ try:
 
         # Konversi frame ke grayscale
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+
+        # Deteksi wajah
+        face = detect_face(gray, face_cascade)
+        if face is not None:
+            x, y, w, h = face
+            rppg_roi = (x, y, w, int(h / 2))  # Bagian atas wajah untuk rPPG
+            # Bagian bawah wajah untuk respirasi
+            resp_roi = (x, y + int(h / 2), w, int(h / 2))
 
         # Ekstraksi sinyal
         rppg_signal, resp_signal = extract_rppg_and_respiration(
