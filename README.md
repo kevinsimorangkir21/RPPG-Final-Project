@@ -39,7 +39,7 @@ The following is the AKA Group consisting of 3 members following the provisions 
 | :---: | :---: | :---: | :---: | :---: |
 | **Muhammad Atha Akbar** | 121140123 | R | Informatics Engineering | 2021 |
 | **Kevin Simorangkir** | 121140150 | R | Informatics Engineering | 2021 |
-| **Alfath Elnandra** | 121140157 | R | Informatics Engineering | 2021 |
+| **Alfath Elnandra** | 121140175 | R | Informatics Engineering | 2021 |
 
 </div>
 
