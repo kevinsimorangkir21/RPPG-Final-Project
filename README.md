@@ -9,11 +9,11 @@
 ## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Table Of Contents**
 [Description]()
 
-[Member Of Team]()
+[Member Of Team](#member-of-team)
 
-[Role & Position Member Of Team]()
+[ID & Position Member Of Team](#id--position-member-of-team)
 
-[Technology Application]()
+[Technology Application](#technology-application)
 
 [Installation Steps]()
 
@@ -95,38 +95,48 @@ https://www.onlinegdb.com/online_python_compiler
 https://replit.com/
 ```
 
-<!-- <li> To install Pygame, please use the following command: </li>
+<li> The next step is to run the program. However, you need to install some libraries first with the following command:
 
 ```bash
-pip install pygame
+pip install opencv-python
 ```
-
-<li> To install MediaPipe, please use the following command: </li>
 
 ```bash
 pip install mediapipe
 ```
 
+```bash
+pip install numpy
+```
+
+```bash
+pip install matplotlib
+```
+
+```bash
+pip install scipy
+```
+
 ### <img src="Images/Mentahan/Panah2.png" width="30px;"/> **Program Running Stage**
-<li> Open a terminal / something like GitBash etc. Please clone this Repository by following the following command and copy it in your terminal: </li>
+<li> Then open a terminal such as Command Prompt/Power Shell/Git Bash/other. Next, clone the RPPG Final Project repository by following the following command and copy it to your terminal: </li>
 
 ```bash
-https://github.com/Ardoni121140141/Pong-With-Hand-Tracking.git
+git clone https://github.com/kevinsimorangkir21/RPPG-Final-Project.git
 ```
 
-<li>Please change the directory to point to the clone folder with the following command:</li>
+<li>Please change the directory to point to the previous clone folder with the following command:</li>
 
 ```bash
-cd Pong-With-Hand-Tracking
+cd PRPPG-Final-Project
 ```
 
-<li> After that, please run the following command to run the program:</li>
+<li> After that, the next step is to run a program with the following command:</li>
 
 ```bash
 python main.py
 ```
 
-## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Weekly Logbook**
+<!-- ## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Weekly Logbook**
 | Week | Task | Person | Status |
 | :---: | :---: | :---: | :---: |
 | Week 1 | - Installing OpenCV, Pygame and Mediapipe modules <br> - Save the requirements.txt file for the purpose of installing dependencies. <br> - Creating basic code to detect hand gestures using MediaPipe | Ardoni Yeriko & Kevin Simorangkir | Done | -->
