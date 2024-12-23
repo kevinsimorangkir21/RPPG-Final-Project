@@ -140,3 +140,5 @@ python main.py
 | Week | Description | Person | Status |
 | :---: | :---: | :---: | :---: |
 | **Week 1** | - Install OpenCV, NumPY, SciPY, and Matplotlib modules <br> - Save a requirements.txt file for the purpose of installing dependencies. <br> - Create a basic code to detect facial movements so that they can be detected into a signal. | **Kevin Simorangkir** | **Done** |
+| **Week 2** | - Create a basic code is vipro.py to detect facial movements so that they can be detected into a signal. <br> - Create a basic sigproc.py code to process the signal obtained from the facial movements. <br> - Create a basic code is main.py to run the program. | **Kevin Simorangkir** | **Done** |
+| **Week 3** | - Implementation of video logic to detect a user's face <br> - Finalization of the program code <br> - Finalization of a report that is created and addressed with an explanation of a program code. | **M. Atha Akbar, Kevin Simorangkir, Alfath Elnandra** | **Done** |
