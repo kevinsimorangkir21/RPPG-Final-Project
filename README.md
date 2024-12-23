@@ -152,3 +152,10 @@ The following explains the results of the analysis of the program code that has 
 | **Extraction Process**| RPPG and respiration waveforms were successfully generated every 10 seconds with good stability under normal lighting conditions. **Signal Filtering**: The raw data from rPPG and respiration extraction were filtered using a bandpass filter to improve waveform accuracy and reduce artifacts. |
 | **System Performance**| The data update interval is 10 seconds.|
 | **Challenges** | - Face detection is less than optimal in low light conditions.<br> - Faces with masks or other accessories reduce the accuracy of detection results.|
+
+## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Presentation Video**
+The following is a link to the presentation video of the RPPG Final Project:
+
+<a href="https://youtu.be/36a1C47i-T4?si=-zljxbxT5o1GLg-g">
+  <img src="https://i.ytimg.com/vi/36a1C47i-T4/maxresdefault.jpg" alt="Presentation Video">
+</a>
