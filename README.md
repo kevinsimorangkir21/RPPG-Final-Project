@@ -139,6 +139,4 @@ python main.py
 ## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Weekly Logbook**
 | Week | Description | Person | Status |
 | :---: | :---: | :---: | :---: |
-| **Week 1** | - Install OpenCV, NumPY, SciPY, and Matplotlib modules
-- Save a requirements.txt file for the purpose of installing dependencies.
-- Create a basic code to detect facial movements so that they can be detected into a signal. | **Kevin Simorangkir** | **Done** |
+| **Week 1** | - Install OpenCV, NumPY, SciPY, and Matplotlib modules <br> - Save a requirements.txt file for the purpose of installing dependencies. <br> - Create a basic code to detect facial movements so that they can be detected into a signal. | **Kevin Simorangkir** | **Done** |
