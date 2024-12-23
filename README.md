@@ -142,3 +142,20 @@ python main.py
 | **Week 1** | - Install OpenCV, NumPY, SciPY, and Matplotlib modules <br> - Save a requirements.txt file for the purpose of installing dependencies. <br> - Create a basic code to detect facial movements so that they can be detected into a signal. | **Kevin Simorangkir** | **Done** |
 | **Week 2** | - Create a basic code is vipro.py to detect facial movements so that they can be detected into a signal. <br> - Create a basic sigproc.py code to process the signal obtained from the facial movements. <br> - Create a basic code is main.py to run the program. | **Kevin Simorangkir** | **Done** |
 | **Week 3** | - Implementation of video logic to detect a user's face <br> - Finalization of the program code <br> - Finalization of a report that is created and addressed with an explanation of a program code. | **M. Atha Akbar, Kevin Simorangkir, Alfath Elnandra** | **Done** |
+
+## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Discussion Analysis**
+### Accuracy
+The system uses the OpenCV library with the Haar Cascade method to detect faces in real-time. The system has a fairly high success rate of face detection, although there are some failures caused by poor lighting or extreme face angles.
+
+### Extraction Process
+rPPG and respiration waveforms were successfully generated every 10 seconds with good stability under normal lighting conditions.
+
+- **Signal Filtering**: The raw data from rPPG and respiration extraction were filtered using a bandpass filter. This filter can improve the accuracy of the waveform and eliminate artifacts caused by motion or environmental noise.
+
+### Performa Sistem
+The data update interval is 10 seconds.
+
+### Kendala
+Some of the obstacles experienced during running a program code are as follows:
+- Face detection is less than optimal in low light conditions.
+- Faces with masks or other accessories reduce the accuracy of detection results.
