@@ -144,18 +144,11 @@ python main.py
 | **Week 3** | - Implementation of video logic to detect a user's face <br> - Finalization of the program code <br> - Finalization of a report that is created and addressed with an explanation of a program code. | **M. Atha Akbar, Kevin Simorangkir, Alfath Elnandra** | **Done** |
 
 ## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Discussion Analysis**
-### Accuracy
-The system uses the OpenCV library with the Haar Cascade method to detect faces in real-time. The system has a fairly high success rate of face detection, although there are some failures caused by poor lighting or extreme face angles.
-
-### Extraction Process
-rPPG and respiration waveforms were successfully generated every 10 seconds with good stability under normal lighting conditions.
-
-- **Signal Filtering**: The raw data from rPPG and respiration extraction were filtered using a bandpass filter. This filter can improve the accuracy of the waveform and eliminate artifacts caused by motion or environmental noise.
-
-### Performa Sistem
-The data update interval is 10 seconds.
-
-### Kendala
-Some of the obstacles experienced during running a program code are as follows:
-- Face detection is less than optimal in low light conditions.
-- Faces with masks or other accessories reduce the accuracy of detection results.
+| **Category** | **Details** |
+|---|---|
+| **Accuracy** | The system uses the OpenCV library with the Haar Cascade method to detect faces in real-time. It has a fairly high success rate but struggles in poor lighting or extreme face angles. |
+| **Extraction Process**| rPPG and respiration waveforms were successfully generated every 10 seconds with good stability under normal lighting conditions.                           |
+|                       | - **Signal Filtering**: The raw data from rPPG and respiration extraction were filtered using a bandpass filter to improve waveform accuracy and reduce artifacts. |
+| **System Performance**| The data update interval is 10 seconds.                                                                                                                     |
+| **Challenges**        | - Face detection is less than optimal in low light conditions.                                                                                              |
+|                       | - Faces with masks or other accessories reduce the accuracy of detection results.                                                                           |
