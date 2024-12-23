@@ -147,8 +147,6 @@ python main.py
 | **Category** | **Details** |
 |---|---|
 | **Accuracy** | The system uses the OpenCV library with the Haar Cascade method to detect faces in real-time. It has a fairly high success rate but struggles in poor lighting or extreme face angles. |
-| **Extraction Process**| rPPG and respiration waveforms were successfully generated every 10 seconds with good stability under normal lighting conditions.                           |
-|                       | - **Signal Filtering**: The raw data from rPPG and respiration extraction were filtered using a bandpass filter to improve waveform accuracy and reduce artifacts. |
-| **System Performance**| The data update interval is 10 seconds.                                                                                                                     |
-| **Challenges**        | - Face detection is less than optimal in low light conditions.                                                                                              |
-|                       | - Faces with masks or other accessories reduce the accuracy of detection results.                                                                           |
+| **Extraction Process**| RPPG and respiration waveforms were successfully generated every 10 seconds with good stability under normal lighting conditions. **Signal Filtering**: The raw data from rPPG and respiration extraction were filtered using a bandpass filter to improve waveform accuracy and reduce artifacts. |
+| **System Performance**| The data update interval is 10 seconds.|
+| **Challenges** | - Face detection is less than optimal in low light conditions.<br> - Faces with masks or other accessories reduce the accuracy of detection results.|
