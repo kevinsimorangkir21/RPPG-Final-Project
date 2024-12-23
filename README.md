@@ -136,7 +136,9 @@ cd PRPPG-Final-Project
 python main.py
 ```
 
-<!-- ## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Weekly Logbook**
-| Week | Task | Person | Status |
+## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **Weekly Logbook**
+| Week | Description | Person | Status |
 | :---: | :---: | :---: | :---: |
-| Week 1 | - Installing OpenCV, Pygame and Mediapipe modules <br> - Save the requirements.txt file for the purpose of installing dependencies. <br> - Creating basic code to detect hand gestures using MediaPipe | Ardoni Yeriko & Kevin Simorangkir | Done | -->
+| **Week 1** | - Install OpenCV, NumPY, SciPY, and Matplotlib modules
+- Save a requirements.txt file for the purpose of installing dependencies.
+- Create a basic code to detect facial movements so that they can be detected into a signal. | **Kevin Simorangkir** | **Done** |
