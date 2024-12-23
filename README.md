@@ -144,6 +144,8 @@ python main.py
 | **Week 3** | - Implementation of video logic to detect a user's face <br> - Finalization of the program code <br> - Finalization of a report that is created and addressed with an explanation of a program code. | **M. Atha Akbar, Kevin Simorangkir, Alfath Elnandra** | **Done** |
 
 ## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Discussion Analysis**
+The following explains the results of the analysis of the program code that has been created and refined well and structured. Here are the results:
+
 | **Category** | **Details** |
 |---|---|
 | **Accuracy** | The system uses the OpenCV library with the Haar Cascade method to detect faces in real-time. It has a fairly high success rate but struggles in poor lighting or extreme face angles. |
