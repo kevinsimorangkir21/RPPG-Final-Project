@@ -116,6 +116,18 @@ pip install matplotlib
 ```bash
 pip install scipy
 ```
+<li>Or you can directly install the library with a single command at the conda prompt:</li>
+
+```bash
+conda env create -f environment.yml
+```
+
+<li>After moving the environment file to:</li>
+
+```bash
+C:/Users/user/environment.yml
+```
+
 
 ### <img src="Images/Mentahan/Panah2.png" width="30px;"/> **Program Running Stage**
 <li> Then open a terminal such as Command Prompt/Power Shell/Git Bash/other. Next, clone the RPPG Final Project repository by following the following command and copy it to your terminal: </li>
