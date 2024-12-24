@@ -7,4 +7,5 @@ dependencies:
       - numpy
       - matplotlib
       - scipy
+      - mediapipe
 prefix : C:/Users/user/enviroment.yml
