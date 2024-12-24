@@ -21,8 +21,8 @@ face_cascade = cv2.CascadeClassifier(
     cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
 # ROI Awal
-rppg_roi = (100, 100, 200, 200)  # x, y, w, h
-resp_roi = (300, 300, 200, 200)
+rppg_roi = (100, 100, 300, 300)  # x, y, w, h
+resp_roi = (400, 400, 300, 300)
 
 try:
     while True:
@@ -37,9 +37,9 @@ try:
         face = detect_face(gray, face_cascade)
         if face is not None:
             x, y, w, h = face
-            rppg_roi = (x, y, w, int(h / 2))  # Bagian atas wajah untuk rPPG
+            rppg_roi = (x, y * 2, w, int(h / 2))  # Bagian atas wajah untuk rPPG
             # Bagian bawah wajah untuk respirasi
-            resp_roi = (x, y + int(h / 2), w, int(h / 2))
+            resp_roi = (x - 125, y * 2 + int(h / 2), w * 2, int(h / 2))
 
         # Ekstraksi sinyal
         rppg_signal, resp_signal = extract_rppg_and_respiration(
