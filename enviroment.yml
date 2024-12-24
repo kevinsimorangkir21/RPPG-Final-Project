@@ -1,0 +1,10 @@
+name: rppg110_DSP
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - opencv-python
+      - numpy
+      - matplotlib
+      - scipy
+prefix : C:/Users/user/enviroment.yml
