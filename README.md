@@ -27,7 +27,7 @@
 A final project in the assignment in the Digital Signal Processing (DSP) Course that asks to create a program to receive video input from a camera/webcam then process the video in real time and display the respiration signal and RPPG signal using several libraries needed in this assignment such as matplotlib, cv2, and others.
 
 ## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **Member Of Team**
-| [<img src="Images/Member/Atha.png" width="100px;"/><br /><sub><b>M. Atha Akbar</b></sub>](https://github.com/AthaAkbar123)<br /> 121140123 <br /> | [<img src="Images/Member/Kevin.png" width="100px;"/><br /><sub><b>Kevin Simorangkir</b></sub>](https://github.com/kevinsimorangkir21)<br />121140150 <br /> | [<img src="Images/Member/Alfath.png" width="100px;"/><br /><sub><b>Alfath Elnandra</b></sub>](https://github.com/Alfath12311) <br/> 121140157 <br /> |
+| [<img src="Images/Member/Atha.png" width="100px;"/><br /><sub><b>M. Atha Akbar</b></sub>](https://github.com/AthaAkbar123)<br /> 121140123 <br /> | [<img src="Images/Member/Kevin.png" width="100px;"/><br /><sub><b>Kevin Simorangkir</b></sub>](https://github.com/kevinsimorangkir21)<br />121140150 <br /> | [<img src="Images/Member/Alfath.png" width="100px;"/><br /><sub><b>Alfath Elnandra</b></sub>](https://github.com/Alfath12311) <br/> 121140175 <br /> |
 |--|--|--|
 
 ## <img src="Images/Mentahan/Panah3.png" width="30px;"/> **ID & Position Member Of Team**
