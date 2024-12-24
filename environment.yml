@@ -8,4 +8,4 @@ dependencies:
       - matplotlib
       - scipy
       - mediapipe
-prefix : C:/Users/user/enviroment.yml
+prefix : C:/Users/user/environment.yml
